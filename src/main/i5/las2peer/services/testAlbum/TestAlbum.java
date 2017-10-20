@@ -89,10 +89,6 @@ public class TestAlbum extends RESTService {
 
     private final TestAlbum service = (TestAlbum) Context.getCurrent().getService();
 
-    
-
-    $MetadataDoc_Method$
-
   }
 
   // //////////////////////////////////////////////////////////////////////////////////////
